@@ -7,10 +7,10 @@ Este projeto simula uma aplicacao real de inteligencia de mercado, em que a anal
 
 
 ### Estrutura deste repositório
-`data/:` guarda o dataset original
-`notebooks/:` onde vamos desenvolver a análise
-`src/:` funções auxiliares, se depois quisermos organizar melhor
-`outputs/:` gráficos e resultados exportados
-`README.md:` apresentação do projeto no GitHub
-`requirements.txt:` bibliotecas usadas
-`.gitignore:` evita subir arquivos desnecessários
+*`data/:` guarda o dataset original
+*`notebooks/:` onde vamos desenvolver a análise
+*`src/:` funções auxiliares, se depois quisermos organizar melhor
+*`outputs/:` gráficos e resultados exportados
+*`README.md:` apresentação do projeto no GitHub
+*`requirements.txt:` bibliotecas usadas
+*`.gitignore:` evita subir arquivos desnecessários
