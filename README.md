@@ -1,2 +1,3 @@
-# analise_laptops
-projeto de analise e-commerce de laptops
+# Projeto de Extensao Universitaria - Inteligencia de Mercado e Analise de Dados 
+
+##### Fonte dedados: Kaggle
